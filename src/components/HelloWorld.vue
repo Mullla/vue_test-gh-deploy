@@ -3,6 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>
       Testing my deploy script...
+      ok, i should commit and push changes before deploy, should i just commit ??? 
     </p>
   </div>
 </template>
